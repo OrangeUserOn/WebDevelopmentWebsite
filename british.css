@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'title';
+    src: url('Fonts/EnglishTowne.ttf') format('truetype');
+}
+
+.title {
+  font-family: 'title', cursive;
+  font-size: 56px;
+  text-align:center;
+  letter-spacing:2px;
+  margin-bottom:20px;
+}
+@font-face {
+    font-family: 'TNR';
+    src: url('Fonts/Times New Roman.ttf') format('truetype');
+}
+
+body {
+	font-family: 'TNR', cursive;
+	text-align:center-right;
+}
+
+.subtitle {
+	outline-style:solid;
+	outline-color:black;
+	outline-width:1px;
+	margin-left: auto; 
+	margin-right: auto; 
+	text-align:center;
+	
+	
+}
+div {
+	width:400px;
+	
+	margin-left: auto; 
+	margin-right: auto; 
+	
+	margin-bottom:6px;
+	margin-top:6px;
+	
+}
